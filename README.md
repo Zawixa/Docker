@@ -13,6 +13,10 @@ Ce projet vise à créer une application web Python utilisant Flask, avec un sys
 - Prometheus : Conteneur pour la collecte de données de monitoring et de métriques.
 - Grafana : Conteneur pour afficher les données avec des tableaux de bord.  
 
+## Récupérer le réptoire Git :
+
+git clone https://github.com/Zawixa/Docker.git
+
 # Etape 1 : Création de l'application conteneurisée Flask 
 
 Pour démarrer, suivez ces étapes pour créer et conteneuriser votre application Flask :
